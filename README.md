@@ -3,8 +3,9 @@
 ## Uživatelská příručka
 Program se kompiluje pomocí přiloženého Makefile. Pokud se soubory nachází ve
 stejné složce jako Makefile a jsou přímo na přípravku, pak stačí zadat příkaz make a zapnout
-exe soubor program. 
-###### Ukázka: Do příkazové řádky zadáme make a poté ./program
+exe soubor program.
+
+Ukázka: Do příkazové řádky zadáme make a poté ./program
 Po zapnutí programu se nám zobrazí fraktál.
 Pomocí tlačítek lze s fraktálem pohybovat a měnit ho.
 ### Červené tlačítko:
