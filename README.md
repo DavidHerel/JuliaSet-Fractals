@@ -7,13 +7,13 @@ exe soubor program.
 Ukázka: Do příkazové řádky zadáme make a poté ./program
 Po zapnutí programu se nám zobrazí fraktál.
 Pomocí tlačítek lze s fraktálem pohybovat a měnit ho.
-- Červené tlačítko:
+### Červené tlačítko:
 - Otočením se mění pohyb na horizontální ose
 - Stisknutím se mění fraktály (v paměti jsou připravené sety imaginární a reálných
 číšel)
-- Zelené tlačítko:
+### Zelené tlačítko:
 - Otočením se mění pohyb na vertikální ose
-- Modré tlačítko:
+### Modré tlačítko:
 - Otočením se mění barevná paleta vykresleného obrázku (počet iterací při
 výpočtu)
 
